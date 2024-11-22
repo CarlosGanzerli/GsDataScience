@@ -1,3 +1,5 @@
+CARLOS AUGUSTO CAMPOS GANZERLI RM:99840
+GUILHERME ALVES:550433
 # 🌍 Análise da Pegada de Carbono e Modelagem com Machine Learning
 
 ## 📝 **Descrição do Projeto**
